@@ -21,3 +21,5 @@ I'm Felipe, a Programming student focused on:
 </table>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=120&section=footer)
+
+![Snake animation](https://github.com/FelipePereiraN/FelipePereiraN/blob/output/github-contribution-grid-snake.svg)
